@@ -1,13 +1,21 @@
-hello-flask
+Documentation
 ===========
 
-hello world flask 
+This is Simple Hello World example in flask
 
 
-This is simple hello world app in flask
+Setup
 
-Requirements
+> sudo pip install flask
 
-pip install flask
+> git clone https://github.com/fossbalaji/hello-flask.git
+
+> python hello.py
+
+open the below url in your favourite browser
+
+http://localhost:8080
+
+
 
 
